@@ -1,4 +1,5 @@
-Basic Tab Structure:
+Basic Tab Structure
+===================
 
 Priorities
 --------
@@ -40,7 +41,7 @@ Lifestyle, Armor, Weapons, Gear, Pets
 Vehicles and Drones
 --------
 
-Charecter Info
+Character Info
 --------
 20 Questions
 
